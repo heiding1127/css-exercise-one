@@ -1,36 +1,46 @@
-body
+body {
+  background-color: #fafafa
   font-size: 14px;
 }
 
+/* this is a comments, nav start*/
+
 nav {
-  background color: yellow;
+  background-color: red;
   height: 100px;
   margin-top: -10px;
   position: fixed;
   width: 100%;
-
+}
 
 section {
   margin: 0 auto;
   width: 60%;
 }
 
+/* h1 starts here */
+
 h1 {
-  font-family sans-serif;
+  font-family: sans-serif;
   font-size: 2em;
+  color: #ffffff
 }
+
+/* h3 starts here */
 
 .example, h3 {
   padding-top: 30px;
-  text-align center
+  text-align: center
 }
 
 h3 {
   font-size: 1.3em;
+  color: #ffffff
 }
 
 .element {
-  background-color: green;
+  background-color: #69BCDC;
   height: 100px;
-  margin 10px 0;
+  margin: 10px 0;
   width: 100%;
+}
