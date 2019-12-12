@@ -1,6 +1,6 @@
 body {
   background-color: #fafafa
-  font-size: 14px;
+  font-size: 14px
 }
 
 /* this is a comments, nav start*/
@@ -10,12 +10,13 @@ nav {
   height: 100px;
   margin-top: -10px;
   position: fixed;
-  width: 100%;
+  width: 100%
 }
 
 section {
   margin: 0 auto;
   width: 60%;
+  padding-top: 90px
 }
 
 /* h1 starts here */
@@ -41,6 +42,11 @@ h3 {
 .element {
   background-color: #69BCDC;
   height: 100px;
-  margin: 10px 0;
-  width: 100%;
+  margin: 10px 0
+}
+
+.box {
+  background-color: #de4343;
+  height: 100px;
+  margin: 10px 0
 }
